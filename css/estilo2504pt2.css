@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+}
+#container{
+    margin: 0 auto;
+    width: 1050px;
+    height: 616px;
+}
+#banner{
+    width: 80%;
+    height: 178px;
+    margin: 0 auto;
+    background: #000;
+    color: #fff;
+}
+#link{
+    width: 15%;
+    height: 800px;
+    background: red;
+    margin-left: 105px;
+}
+#texto{
+    width: 25%;
+    height: 800px;
+    margin-top: -800px;
+    margin-left: 260px;
+    background: blue;
+}
+#video1{
+    width: 20%;
+    height: 400px;
+    margin-top: -800px;
+    margin-left: 522px;
+    background: green;
+}
+#video2{
+    width: 20.5%;
+    height: 400px;
+    margin-top: -400px;
+    margin-left: 732px;
+    background: yellow;
+}
+#video3{
+    width: 20%;
+    height: 400px;
+    margin-top: 0px;
+    margin-left: 522px;
+    background: cadetblue;
+}
+#video4{
+    width: 20.5%;
+    height: 400px;
+    margin-top: -400px;
+    margin-left: 732px;
+    background: purple;
+}
